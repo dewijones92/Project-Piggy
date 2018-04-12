@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\bin\Debug\netcoreapp2.0\ProjectPiggy.deps.json
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\bin\Debug\netcoreapp2.0\ProjectPiggy.runtimeconfig.json
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\bin\Debug\netcoreapp2.0\ProjectPiggy.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\bin\Debug\netcoreapp2.0\ProjectPiggy.dll
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\bin\Debug\netcoreapp2.0\ProjectPiggy.pdb
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\ProjectPiggy.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\ProjectPiggy.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\ProjectPiggy.AssemblyInfo.cs
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\ProjectPiggy.dll
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\ProjectPiggy.pdb
+C:\Users\Kevin\Documents\GitHub\Project-Piggy\ProjectPiggySolution\ProjectPiggy\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

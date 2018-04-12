@@ -13128,9 +13128,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\Kevin\\Documents\\GitHub\\Project-Piggy\\ProjectPiggySolution\\ProjectPiggy\\ProjectPiggy.csproj",
       "projectName": "ProjectPiggy",

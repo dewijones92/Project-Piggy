@@ -9,6 +9,8 @@ namespace ProjectPiggy.Models.AccountViewModels
     public class RegisterViewModel
     {
         [Required]
+        public string Username { get; set; }
+
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
